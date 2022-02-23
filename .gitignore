@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+hw3d/.vs/*
+hw3d/Debug/*
+hw3d/x64/*
